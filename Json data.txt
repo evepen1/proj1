@@ -1,0 +1,191 @@
+{
+    "_id" : ObjectId("5a707bbadc7a4224d0268490"),
+    "transactionId" : "86199349",
+    "firmCode" : "FSTP",
+    "type" : "exceptionCreated",
+    "tradeId" : "1204171157041",
+    "blockId" : "120417115704",
+    "assetClass" : "TIMEDEPOSIT",
+    "custodian" : "",
+    "source" : "MOM",
+    "stage" : "Trade Capture",
+    "category" : "Missing Manadatory Filed ",
+    "_class" : "com.citigroup.ewb.common.exception.domain.Exception"
+}
+
+{
+    "_id" : ObjectId("5a77ca1b78f714bcbf180acb"),
+    "transactionId" : "86199350",
+    "firmCode" : "FSTP",
+    "type" : "exceptionCreated",
+    "tradeId" : "1204171157041",
+    "blockId" : "120417115704",
+    "assetClass" : "TIMEDEPOSIT",
+    "custodian" : "API_OMGI03",
+    "status" : "Open",
+    "source" : "MOM",
+    "stage" : "Trade Capture",
+    "criticality" : "CRITICAL",
+    "AGING" : NumberLong(-9),
+    "category" : "Missing Manadatory Filed "
+}
+
+{
+    "_id" : ObjectId("5a77ca6f78f714bcbf182501"),
+    "transactionId" : "86199351",
+    "firmCode" : "FSTP",
+    "type" : "exceptionCreated",
+    "tradeId" : "1204171157051",
+    "blockId" : "120417115751",
+    "assetClass" : "TIMEDEPOSIT",
+    "custodian" : "API_OMGI03",
+    "status" : "Open",
+    "source" : "MOM",
+    "stage" : "Trade Capture",
+    "criticality" : "HIGH",
+    "AGING" : NumberLong(-9),
+    "category" : "Missing Manadatory Filed "
+}
+
+{
+    "_id" : ObjectId("5a77cb1378f714bcbf18582e"),
+    "transactionId" : "86199352",
+    "firmCode" : "OMGI",
+    "type" : "exceptionCreated",
+    "tradeId" : "1204171157052",
+    "blockId" : "1204171157052",
+    "assetClass" : "TIMEDEPOSIT",
+    "custodian" : "API_OMGI03",
+    "status" : "Open",
+    "source" : "MOM",
+    "stage" : "Trade Capture",
+    "criticality" : "MEDIUM",
+    "AGING" : NumberLong(-100),
+    "category" : "Missing Manadatory Filed"
+}
+
+{
+    "_id" : ObjectId("5a77cca178f714bcbf18d4fb"),
+    "transactionId" : "86199352",
+    "firmCode" : "OMGI",
+    "type" : "exceptionCreated",
+    "tradeId" : "1204171157052",
+    "blockId" : "1204171157052",
+    "assetClass" : "TIMEDEPOSIT",
+    "custodian" : "API_OMGI03",
+    "status" : "Open",
+    "source" : "MOM",
+    "stage" : "Trade Capture",
+    "criticality" : "MEDIUM",
+    "AGING" : NumberLong(-100),
+    "category" : "BUSINESS_VALIDATION",
+    "description" : "Failure Resolving Net Amount. (Principal=1500000) +/- (Fees=190) + (Accrued Interest=)"
+}
+
+{
+    "_id" : ObjectId("5a77cd6378f714bcbf1911a0"),
+    "transactionId" : "86199353",
+    "firmCode" : "OMGI",
+    "type" : "exceptionCreated",
+    "tradeId" : "1204171157053",
+    "blockId" : "1204171157053",
+    "assetClass" : "TIMEDEPOSIT",
+    "custodian" : "API_OMGI03",
+    "status" : "Open",
+    "source" : "MOM",
+    "stage" : "Trade Capture",
+    "criticality" : "LOW",
+    "AGING" : NumberLong(-100),
+    "category" : "Missing Mandatory Fields",
+    "description" : "Recipient Preferred Security Id Missing"
+}
+
+{
+    "_id" : ObjectId("5a77cde178f714bcbf193a25"),
+    "transactionId" : "86199354",
+    "firmCode" : "OMGI",
+    "type" : "exceptionCreated",
+    "tradeId" : "1204171157054",
+    "blockId" : "1204171157054",
+    "assetClass" : "TIMEDEPOSIT",
+    "custodian" : "API_OMGI03",
+    "status" : "Open",
+    "source" : "MOM",
+    "stage" : "CONFIRMATION",
+    "criticality" : "LOW",
+    "AGING" : NumberLong(-100),
+    "category" : "Missing Mandatory Fields",
+    "description" : "SWIFT Nak Received"
+}
+
+{
+    "_id" : ObjectId("5a77cea578f714bcbf197821"),
+    "transactionId" : "86199355",
+    "firmCode" : "OMGI",
+    "type" : "exceptionCreated",
+    "tradeId" : "1204171157055",
+    "blockId" : "1204171157055",
+    "assetClass" : "TIMEDEPOSIT",
+    "custodian" : "API_OMGI03",
+    "status" : "Open",
+    "source" : "MOM",
+    "stage" : "CONFIRMATION",
+    "criticality" : "LOW",
+    "AGING" : NumberLong(-100),
+    "category" : "Missing Mandatory Fields",
+    "description" : "SWIFT Nak Received"
+}
+
+{
+    "_id" : ObjectId("5a77ceba78f714bcbf197e79"),
+    "transactionId" : "86199356",
+    "firmCode" : "OMGI",
+    "type" : "exceptionCreated",
+    "tradeId" : "1204171157056",
+    "blockId" : "1204171157056",
+    "assetClass" : "TIMEDEPOSIT",
+    "custodian" : "API_OMGI03",
+    "status" : "Open",
+    "source" : "MOM",
+    "stage" : "CONFIRMATION",
+    "criticality" : "LOW",
+    "AGING" : NumberLong(-100),
+    "category" : "Missing Mandatory Fields",
+    "description" : "SWIFT Nak Received"
+}
+
+{
+    "_id" : ObjectId("5a77cec778f714bcbf19824e"),
+    "transactionId" : "86199357",
+    "firmCode" : "OMGI",
+    "type" : "exceptionCreated",
+    "tradeId" : "1204171157057",
+    "blockId" : "1204171157057",
+    "assetClass" : "TIMEDEPOSIT",
+    "custodian" : "API_OMGI03",
+    "status" : "Open",
+    "source" : "MOM",
+    "stage" : "CONFIRMATION",
+    "criticality" : "LOW",
+    "AGING" : NumberLong(-100),
+    "category" : "Missing Mandatory Fields",
+    "description" : "SWIFT Nak Received"
+}
+
+{
+    "_id" : ObjectId("5a77ced678f714bcbf198757"),
+    "transactionId" : "86199358",
+    "firmCode" : "OMGI",
+    "type" : "exceptionCreated",
+    "tradeId" : "1204171157058",
+    "blockId" : "1204171157058",
+    "assetClass" : "TIMEDEPOSIT",
+    "custodian" : "API_OMGI03",
+    "status" : "Open",
+    "source" : "MOM",
+    "stage" : "CONFIRMATION",
+    "criticality" : "LOW",
+    "AGING" : NumberLong(-100),
+    "category" : "Missing Mandatory Fields",
+    "description" : "SWIFT Nak Received"
+}
